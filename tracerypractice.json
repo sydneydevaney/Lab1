@@ -1,0 +1,76 @@
+{
+	"name": [
+		"Stephen",
+		"Shannon",
+		"Sarah",
+		"Danielle",
+		"Nicole",
+		"Madison"
+	],
+	"occupation": [
+		"accountant",
+		"police officer",
+		"programmer",
+		"photographer",
+		"bank teller",
+		"chef"
+	],
+	"origin": [
+		"#name# a #occupation# was #always# #expecting# this #amazing# would happen #time# A #animal# #action# #under# the #color# #nature#"
+	],
+	"always": [
+		"rarely",
+		"sometimes",
+		"never",
+		"frequently",
+		"always"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"believing",
+		"assuming"
+	],
+	"time": [
+		"in a year! ",
+		"today!",
+		"tomorrow!"
+	],
+	"animal": [
+		"pig",
+		"cow",
+		"bird",
+		"shrimp",
+		"goose"
+	],
+	"action": [
+		"skipping",
+		"jumping",
+		"",
+		"running",
+		"leaping"
+	],
+	"under": [
+		"above",
+		"on top ",
+		"around"
+	],
+	"color": [
+		"orange",
+		"teal",
+		"magenta",
+		"green",
+		"light blue"
+	],
+	"nature": [
+		"pond.",
+		"sun.",
+		"mountain.",
+		"rain forest."
+	],
+	"amazing": [
+		"terrible thing",
+		"beautiful thing",
+		"crazy thing"
+	]
+}
